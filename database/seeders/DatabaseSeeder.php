@@ -1,0 +1,22 @@
+<?php
+
+namespace Database\Seeders;
+
+// use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+use Illuminate\Database\Seeder;
+use Database\Seeders\PangkatSeeder;
+
+class DatabaseSeeder extends Seeder
+{
+    /**
+     * Seed the application's database.
+     */
+    public function run()
+    {
+        return $this->call([
+            RoleSeeder::class,
+            UserSeeder::class,
+            JenisSeeder::class
+        ]);
+    }
+}

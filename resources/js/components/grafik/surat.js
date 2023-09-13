@@ -1,0 +1,2 @@
+import "./suratByTipe";
+import "./suratByJenis";
