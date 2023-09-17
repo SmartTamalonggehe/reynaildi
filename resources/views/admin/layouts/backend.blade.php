@@ -5,16 +5,16 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
-    <title>Arsip Dinas Perumahan Kabupaten Tambrauw</title>
+    <title>Arsip Dinas Perumahan Rakyat dan Kawasan Permukiman Kabupaten Tambrauw</title>
 
-    <meta name="description" content="Website Dinas Perumahan Kabupaten Tambrauw">
+    <meta name="description" content="Website Dinas Perumahan Rakyat dan Kawasan Permukiman Kabupaten Tambrauw">
     <meta name="author" content="Robert">
     <meta name="robots" content="noindex, nofollow">
 
     <!-- Open Graph Meta -->
-    <meta property="og:title" content="Dinas Perumahan Kabupaten Tambrauw">
+    <meta property="og:title" content="Dinas Perumahan Rakyat dan Kawasan Permukiman Kabupaten Tambrauw">
     <meta property="og:site_name" content="Robert">
-    <meta property="og:description" content="Website Dinas Perumahan Kabupaten Tambrauw">
+    <meta property="og:description" content="Website Dinas Perumahan Rakyat dan Kawasan Permukiman Kabupaten Tambrauw">
     <meta property="og:type" content="website">
     <meta property="og:url" content="">
     <meta property="og:image" content="">
@@ -143,7 +143,7 @@
                     <!-- Open Search Section -->
                     <!-- Layout API, functionality initialized in Template._uiApiLayout() -->
                     <div class="d-inline">
-                        <span class="fs-5 text-primary fw-bold">Dinas Perumahan Kabupaten
+                        <span class="fs-5 text-primary fw-bold">Dinas Perumahan Rakyat dan Kawasan Permukiman
                             Tambrauw</span>
                     </div>
                     <!-- END Open Search Section -->

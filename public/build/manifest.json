@@ -126,7 +126,7 @@
     "src": "resources/sass/codebase/themes/pulse.scss"
   },
   "resources/sass/main.scss": {
-    "file": "assets/main-b7214ab9.css",
+    "file": "assets/main-6f6f6a92.css",
     "isEntry": true,
     "src": "resources/sass/main.scss"
   }

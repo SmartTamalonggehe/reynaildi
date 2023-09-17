@@ -14,7 +14,8 @@
                     <div class="block-content text-muted">
                         <p>
                             Anda telah berhasil masuk ke sistem pengelolaan arsip surat masuk dan surat keluar Dinas
-                            Perumahan Kabupaten Tambrauw. Semoga Anda dapat mengelola dan mengawasi arsip dengan efisien dan
+                            Perumahan Rakyat dan Kawasan Permukiman Kabupaten Tambrauw. Semoga Anda dapat mengelola dan
+                            mengawasi arsip dengan efisien dan
                             efektif.
                         </p>
                     </div>
