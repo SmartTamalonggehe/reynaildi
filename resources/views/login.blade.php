@@ -15,7 +15,8 @@
         <div class="mask d-flex align-items-center h-100" style="background-color: rgba(0, 0, 0, 0.8);">
             <div class="container">
                 <div>
-                    <h3 class="text-white text-center">Website Dinas Perumahan Rakyat dan Kawasan Permukimann Kab. Tambrauw</h3>
+                    <h3 class="text-white text-center">Website Dinas Perumahan Rakyat dan Kawasan Permukiman Kab. Tambrauw
+                    </h3>
                     <h4 class="text-white text-center">Silahkan melakukan login</h4>
                 </div>
                 {{-- form --}}

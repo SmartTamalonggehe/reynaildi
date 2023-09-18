@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
-    <title>Dinas Perumahan</title>
+    <title>Dinas Perumahan Rakyat dan Kawasan Permukiman</title>
 
     <meta name="description" content="Website Dinas Perumahan">
     <meta name="author" content="Robert">

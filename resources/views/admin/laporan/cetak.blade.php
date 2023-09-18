@@ -138,7 +138,7 @@
 
 <body>
     <div class="text-center">
-        <h2 class="mt-1">Dinas Pemberdayaan Masyarakat Dan Kampung Kabupaten Tambrauw</h2>
+        <h2 class="mt-1">Dinas Perumahan Rakyat dan Kawasan Permukiman Kabupaten Tambrauw</h2>
         <h3>Laporan Arsip {{ $tipe }}
             @if ($bulan != '')
                 Bulan {{ $bulan }}
