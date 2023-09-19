@@ -5,16 +5,16 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
-    <title>Website Arsip Dinas Perumahan</title>
+    <title>Website Arsip Dinas Perumahan Rakyat dan Kawasan Permukiman Kab. Tambrauw</title>
 
-    <meta name="description" content="Website Arsip Dinas Perumahan">
+    <meta name="description" content="Website Arsip Dinas Perumahan Rakyat dan Kawasan Permukiman Kab. Tambrauw">
     <meta name="author" content="Reynaldi">
     <meta name="robots" content="noindex, nofollow">
 
     <!-- Open Graph Meta -->
-    <meta property="og:title" content="Arsip Dinas Perumahan">
+    <meta property="og:title" content="Arsip Dinas Perumahan Rakyat dan Kawasan Permukiman Kab. Tambrauw">
     <meta property="og:site_name" content="Reynaldi">
-    <meta property="og:description" content="Website Arsip Dinas Perumahan">
+    <meta property="og:description" content="Website Arsip Dinas Perumahan Rakyat dan Kawasan Permukiman Kab. Tambrauw">
     <meta property="og:type" content="website">
     <meta property="og:url" content="">
     <meta property="og:image" content="">
